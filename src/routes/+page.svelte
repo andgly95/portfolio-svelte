@@ -121,7 +121,7 @@
 					<p>
 						A web application for crowdsourcing solutions for creative written and digital content
 					</p>
-					<a href="ai.writelabel.com" target="_blank" class="button">View Project</a>
+					<a href="https://ai.writelabel.com" target="_blank" class="button">View Project</a>
 				</div>
 				<div class="right">
 					<img src="WriteLabel_logo_AI.png" alt="WriteLabel.ai" />
