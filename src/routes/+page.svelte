@@ -7,7 +7,7 @@
 				user experiences. I specialize in Angular development and have a strong focus on writing
 				clean, maintainable code.
 			</p>
-			<a href="#portfolio" class="cta-button">View my work</a>
+			<a href="#projects" class="cta-button">View my work</a>
 		</div>
 		<div class="right">
 			<img src="andrew1.jpeg" alt="Andrew Glyadchenko" />
@@ -94,7 +94,7 @@
 		</div>
 		<!-- Add more job experiences here -->
 	</section>
-	<section id="projects" class="portfolio">
+	<section id="portfolio" class="portfolio">
 		<h2>Portfolio</h2>
 		<div class="projects">
 			<div class="project">

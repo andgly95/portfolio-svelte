@@ -12,7 +12,7 @@
 			<img src="wordmark.png" alt="Andrew Glyadchenko" />
 		</div>
  
-		<nav class:active="{showNavOptions}">
+		<nav class:active="{showNavOptions}" on:click="{toggleNavOptions}">
 			<ul class="links">
 				<li><a href="#about">About</a></li>
 				<li><a href="#skills">Skills</a></li>
@@ -20,7 +20,7 @@
 					<a href="#experience">Experience</a>
 				</li>
 				<li>
-					<a href="#projects">Projects</a>
+					<a href="#portfolio">Portfolio</a>
 				</li>
 				<li><a href="#contact">Contact</a></li>
 			</ul>
