@@ -41,6 +41,9 @@
 				<li>Jest</li>
 				<li>Storybook</li>
 				<li>Agile Development</li>
+				<li>React</li>
+				<li>Next.js</li>
+				<li>Rust</li>
 			</ul>
 		</section>
 	</div>
@@ -101,7 +104,7 @@
 				<div class="left">
 					<h3>WriteLabel.ai</h3>
 					<p>
-						A web application for crowdsourcing solutions for creative written and digital content
+						A web application for crowdsourcing solutions for creative written and digital conten.
 					</p>
 					<a href="https://ai.writelabel.com" target="_blank" class="button">View Project</a>
 				</div>
@@ -123,12 +126,12 @@
 			</div>
 			<div class="project">
 				<div class="left">
-					<h3>Truebird Coffee Co.</h3>
-					<p>A fully automated coffee kiosk that brews high quality espresso drinks</p>
-					<a href="https://www.truebird.com/" target="_blank" class="button">View Project</a>
+					<h3>ImagiChat</h3>
+					<p>An AI-powered chat interface that engages in conversations and generates images.</p>
+					<a href="https://guess-ai.app/" target="_blank" class="button">View Project</a>
 				</div>
 				<div class="right">
-					<img src="truebird.svg" alt="NYC Housing Connect 2.0" />
+					<img src="imagichat.png" alt="ImagiChat" />
 				</div>
 			</div>
 		</div>
