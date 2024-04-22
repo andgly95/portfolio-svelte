@@ -43,6 +43,7 @@
 				<li>Agile Development</li>
 				<li>React</li>
 				<li>Next.js</li>
+				<li>Svelte</li>
 				<li>Rust</li>
 			</ul>
 		</section>
