@@ -7,7 +7,7 @@
 				user experiences. I specialize in Angular development and have a strong focus on writing
 				clean, maintainable code.
 			</p>
-			<a href="#projects" class="cta-button">View my work</a>
+			<a href="#portfolio" class="cta-button">View my work</a>
 		</div>
 		<div class="right">
 			<img src="andrew1.jpeg" alt="Andrew Glyadchenko" />
